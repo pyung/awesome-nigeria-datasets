@@ -22,8 +22,8 @@ Table of Content
 ## Education
 List of datasets specific to the Nigerian Educational Sector.
 
+##### Primary
 
-##Primary
 | Title                  | URL           | Avalailble Format(s)| Date Created     | Last Update| Free    | Requires Permission |Size|
 | ------------- |:-------------:|    -----:           |  -----:          | -----:     | -----:  |  -----:   |         -----:  
 |Pre-Primary Enrollment in Kaduna State between 2013-2014|[http://data.gov.ng/dataset/enrolment-by-class-and-age-in-katsina-state-2013-2014/resource/01a63116-208c-4acb-8993-bd321ffa4c5a](http://data.gov.ng/dataset/enrolment-by-class-and-age-in-katsina-state-2013-2014/resource/01a63116-208c-4acb-8993-bd321ffa4c5a)|xls|  -  | -  |  Yes |No | - 
@@ -39,5 +39,3 @@ List of datasets specific to the Nigerian Educational Sector.
 | Title         | URL           | Avalailble Format(s)| Date Created     | Last Update| Free    | Requires Permission |Size|
 | ------------- |:-------------:|    -----:           |  -----:          | -----:     | -----:  |  -----:   |         -----:  
 |The Enrolment Statistics of Nigerian Universities              |[http://data.gov.ng/dataset/the-enrolment-statistics-of-nigerian-universities](http://data.gov.ng/dataset/the-enrolment-statistics-of-nigerian-universities)|xls|   May 17, 2017 |     May 17, 2017|   Yes      |            No         | -
-
-
