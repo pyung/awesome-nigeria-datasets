@@ -39,3 +39,11 @@ List of datasets specific to the Nigerian Educational Sector.
 | Title         | URL           | Avalailble Format(s)| Date Created     | Last Update| Free    | Requires Permission |Size|
 | ------------- |:-------------:|    -----:           |  -----:          | -----:     | -----:  |  -----:   |         -----:  
 |The Enrolment Statistics of Nigerian Universities              |[http://data.gov.ng/dataset/the-enrolment-statistics-of-nigerian-universities](http://data.gov.ng/dataset/the-enrolment-statistics-of-nigerian-universities)|xls|   May 17, 2017 |     May 17, 2017|   Yes      |            No         | -
+
+
+
+##### Geo dataset
+
+| Title         | URL           | Avalailble Format(s)| Date Created     | Last Update| Free    | Requires Permission |Size|
+| ------------- |:-------------:|    -----:           |  -----:          | -----:     | -----:  |  -----:   |         -----:  
+|The Geo dataset of Nigeria              |[https://umar-yusuf.blogspot.com.ng/2017/08/download-nigeria-geo-dataset-at-states.html](https://umar-yusuf.blogspot.com.ng/2017/08/download-nigeria-geo-dataset-at-states.html)| GeoTIFF, PDF, shapefile, CSV, GeoJSON|   Nov 03, 2001 |     Aug 03, 2017|   Yes      |            No         | -
