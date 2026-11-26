@@ -16,6 +16,7 @@ Table of Content
 ####   [Secondary](#secondary)
 ####   [Tertiary](#tertiary)
 ####   [Miscelleanous](#miscellaneous)
+# [Economy & Retail Prices](#economy--retail-prices)
 
 
 
@@ -47,3 +48,11 @@ List of datasets specific to the Nigerian Educational Sector.
 | Title         | URL           | Avalailble Format(s)| Date Created     | Last Update| Free    | Requires Permission |Size|
 | ------------- |:-------------:|    -----:           |  -----:          | -----:     | -----:  |  -----:   |         -----:  
 |The Geo dataset of Nigeria              |[https://umar-yusuf.blogspot.com.ng/2017/08/download-nigeria-geo-dataset-at-states.html](https://umar-yusuf.blogspot.com.ng/2017/08/download-nigeria-geo-dataset-at-states.html)| GeoTIFF, PDF, shapefile, CSV, GeoJSON|   Nov 03, 2001 |     Aug 03, 2017|   Yes      |            No         | -
+
+
+## Economy & Retail Prices
+List of open economic, inflation, and consumer retail pricing datasets for Nigeria.
+
+| Title | URL | Available Format(s) | Date Created | Last Update | Free | Requires Permission | Size |
+| ------------- |:-------------:| -----: | -----: | -----: | -----: | -----: | -----: |
+| Nigeria FMCG, Retail & CBN Macro Price Benchmarks (Figures.ng) | [https://figures.ng/](https://figures.ng/) · [JSON API](https://figures.ng/public/v1/floor.json) | JSON, CSV (via [Kaggle](https://www.kaggle.com/datasets/uchejacob/nigeria-fmcg-and-cbn-price-benchmarks-figures-ng)) | Nov 26, 2026 | Live / Daily | Yes | No | 168 SKUs + CBN series |
